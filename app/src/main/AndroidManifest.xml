@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.rohit.examples.android.bhopaldarshan">
+    package="com.rohit.examples.android.IndiaTour">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application
         android:allowBackup="true"
@@ -13,8 +16,24 @@
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
         <activity
+            android:name=".Activity.Demo"
+            android:exported="false" />
+        <activity
+            android:name=".Login.ForgetPass"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.SemiMain"
+            android:exported="false" />
+        <activity
+            android:name=".Login.Signup"
+            android:exported="false" />
+        <activity
+            android:name=".Login.LoginActivity"
+            android:exported="false" />
+        <activity
             android:name=".Activity.SplashActivity"
             android:configChanges="orientation"
+            android:exported="true"
             android:theme="@style/AppTheme.NoActionBar"
             tools:ignore="InnerclassSeparator">
             <intent-filter>
@@ -33,4 +52,5 @@
             android:configChanges="orientation"
             tools:ignore="InnerclassSeparator" />
     </application>
+
 </manifest>
