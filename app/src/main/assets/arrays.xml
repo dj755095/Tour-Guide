@@ -1,0 +1,1790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hotelImgID">
+        <item>@drawable/jehan_numa</item>
+        <item>@drawable/marriott</item>
+        <item>@drawable/sayaji</item>
+        <item>@drawable/stay_inn</item>
+        <item>@drawable/celestial_park</item>
+    </string-array>
+
+    <string-array name="hotelName">
+        <item>@string/jehan_numa_hotel</item>
+        <item>@string/marriott</item>
+        <item>@string/sayaji</item>
+        <item>@string/stay_inn</item>
+        <item>@string/celestial_park</item>
+    </string-array>
+
+    <string-array name="hotelRating">
+        <item>4.5</item>
+        <item>4.4</item>
+        <item>4.4</item>
+        <item>4.3</item>
+        <item>4.2</item>
+    </string-array>
+
+    <string-array name="hotelType">
+        <item>@string/five_star</item>
+        <item>@string/four_star</item>
+        <item>@string/five_star</item>
+        <item>@string/three_star</item>
+        <item>@string/four_star</item>
+    </string-array>
+
+    <string-array name="hotelPhone">
+        <item>@string/jehan_numa_phone</item>
+        <item>@string/marriot_phone</item>
+        <item>@string/sayaji_phone</item>
+        <item>@string/stayinn_phone</item>
+        <item>@string/celestial_park_phone</item>
+    </string-array>
+
+    <string-array name="hotelAddress">
+        <item>@string/jehan_numa_hotel_address</item>
+        <item>@string/marriott_address</item>
+        <item>@string/sayaji_address</item>
+        <item>@string/stay_inn_address</item>
+        <item>@string/celestial_park_address</item>
+    </string-array>
+
+    <string-array name="placeImageId">
+        <item>@drawable/van_vihar</item>
+        <item>@drawable/bhojtal</item>
+        <item>@drawable/taj_mahal</item>
+        <item>@drawable/museum</item>
+        <item>@drawable/sair_sapata</item>
+        <item>@drawable/kanha_city</item>
+        <item>@drawable/birla_mandir</item>
+        <item>@drawable/bhadbhada</item>
+    </string-array>
+
+    <string-array name="placeName">
+        <item>@string/van_vihar</item>
+        <item>@string/bhojtal</item>
+        <item>@string/taj_mahal_palace</item>
+        <item>@string/tribal_museum</item>
+        <item>@string/sair_sapata</item>
+        <item>@string/kanha_fun_city</item>
+        <item>@string/birla_mandir</item>
+        <item>@string/bhadbhada_dam</item>
+    </string-array>
+    <string-array name="PlaceDescription">
+        <item>@string/van_vihar_description</item>
+        <item>@string/bhojtal_description</item>
+        <item>@string/taj_mahal_palace_description</item>
+        <item>@string/tribal_museum_description</item>
+        <item>@string/sair_sapata_description</item>
+        <item>@string/kanha_fun_city_description</item>
+        <item>@string/birla_mandir_description</item>
+        <item>@string/bhadbhada_dam_description</item>
+    </string-array>
+
+    <string-array name="placeRating">
+        <item>4.2</item>
+        <item>4.5</item>
+        <item>4.3</item>
+        <item>4.6</item>
+        <item>4.1</item>
+        <item>4.0</item>
+        <item>4.5</item>
+        <item>4.0</item>
+    </string-array>
+
+    <string-array name="placeType">
+        <item>@string/van_vihar_type</item>
+        <item>@string/bhojtal_type</item>
+        <item>@string/taj_mahal_type</item>
+        <item>@string/tribal_museum_type</item>
+        <item>@string/sair_sapata_type</item>
+        <item>@string/kanha_fun_type</item>
+        <item>@string/birla_mandir_type</item>
+        <item>@string/bhadbhada_dam_type</item>
+    </string-array>
+
+    <string-array name="placePhone">
+        <item>@string/van_vihar_phone</item>
+        <item>@string/bhojtal_phone</item>
+        <item>@string/taj_mahal_palace_phone</item>
+        <item>@string/tribal_museum_phone</item>
+        <item>@string/sair_sapata_phone</item>
+        <item>@string/kanha_fun_city_phone</item>
+        <item>@string/birla_mandir_phone</item>
+        <item>@string/bhadbhada_dam_phone</item>
+    </string-array>
+
+    <string-array name="placeTime">
+        <item>@string/van_vihar_time</item>
+        <item>@string/bhojtal_time</item>
+        <item>@string/taj_mahal_palace_time</item>
+        <item>@string/tribal_museum_time</item>
+        <item>@string/sair_sapata_time</item>
+        <item>@string/kanha_fun_city_time</item>
+        <item>@string/birla_mandir_time</item>
+        <item>@string/bhadbhada_dam_time</item>
+    </string-array>
+
+    <string-array name="placeAddress">
+        <item>@string/van_vihar_address</item>
+        <item>@string/bhojtal_address</item>
+        <item>@string/taj_mahal_palace_address</item>
+        <item>@string/tribal_museum_address</item>
+        <item>@string/sair_sapata_address</item>
+        <item>@string/kanha_fun_city_address</item>
+        <item>@string/birla_mandir_address</item>
+        <item>@string/bhadbhada_dam_address</item>
+    </string-array>
+
+    <string-array name="shopImgId">
+        <item>@drawable/aura_mall</item>
+        <item>@drawable/gammon_mall</item>
+        <item>@drawable/capital_mall</item>
+        <item>@drawable/db_mall</item>
+        <item>@drawable/people_mall</item>
+    </string-array>
+
+    <string-array name="shopName">
+        <item>@string/aura_mall</item>
+        <item>@string/gammmon_mall</item>
+        <item>@string/capital_mall</item>
+        <item>@string/db_mall</item>
+        <item>@string/people_mall</item>
+    </string-array>
+
+    <string-array name="shopRating">
+        <item>3.8</item>
+        <item>3.9</item>
+        <item>3.8</item>
+        <item>4.6</item>
+        <item>4.1</item>
+    </string-array>
+
+    <string-array name="shopPlace">
+        <item>@string/aura_mall_addr</item>
+        <item>@string/gammmon_mall_addr</item>
+        <item>@string/capital_mall_addr</item>
+        <item>@string/db_mall_addr</item>
+        <item>@string/people_mall_addr</item>
+    </string-array>
+
+    <string-array name="shopPhone">
+        <item>@string/aura_mall_phone</item>
+        <item>@string/gammmon_mall_phone</item>
+        <item>@string/capital_mall_phone</item>
+        <item>@string/db_mall_phone</item>
+        <item>@string/people_mall_phone</item>
+    </string-array>
+
+    <string-array name="shopTime">
+        <item>@string/aura_mall_time</item>
+        <item>@string/gammmon_mall_time</item>
+        <item>@string/capital_mall_time</item>
+        <item>@string/db_mall_time</item>
+        <item>@string/people_mall_time</item>
+    </string-array>
+
+    <string-array name="shopAddress">
+        <item>@string/aura_mall_address</item>
+        <item>@string/gammmon_mall_address</item>
+        <item>@string/capital_mall_address</item>
+        <item>@string/db_mall_address</item>
+        <item>@string/people_mall_address</item>
+    </string-array>
+
+    <string-array name="restoImgId">
+        <item>@drawable/la_kuchina</item>
+        <item>@drawable/momo_cafe</item>
+        <item>@drawable/mango_tree</item>
+        <item>@drawable/crystal_dew</item>
+        <item>@drawable/winds_waves</item>
+        <item>@drawable/dakshin</item>
+    </string-array>
+
+    <string-array name="restoName">
+        <item>@string/kuchina</item>
+        <item>@string/momo_cafe</item>
+        <item>@string/mango_tree</item>
+        <item>@string/crystal_dew</item>
+        <item>@string/wind_wave</item>
+        <item>@string/dakshin_resto</item>
+    </string-array>
+
+    <string-array name="restoRating">
+        <item>4.4</item>
+        <item>4.5</item>
+        <item>4.3</item>
+        <item>4.4</item>
+        <item>4.1</item>
+        <item>4.1</item>
+    </string-array>
+
+    <string-array name="restoType">
+        <item>@string/italian</item>
+        <item>@string/cafe</item>
+        <item>@string/indian</item>
+        <item>@string/chinese</item>
+        <item>@string/indian</item>
+        <item>@string/indian</item>
+    </string-array>
+
+    <string-array name="restoPhone">
+        <item>@string/kuchina_phone</item>
+        <item>@string/momo_cafe_phone</item>
+        <item>@string/mango_tree_phone</item>
+        <item>@string/crystal_dew_phone</item>
+        <item>@string/wind_wave_phone</item>
+        <item>@string/dakshin_resto_phone</item>
+    </string-array>
+
+    <string-array name="restoTime">
+        <item>@string/kuchina_time</item>
+        <item>@string/momo_cafe_time</item>
+        <item>@string/mango_tree_time</item>
+        <item>@string/crystal_dew_time</item>
+        <item>@string/wind_wave_time</item>
+        <item>@string/dakshin_resto_time</item>
+    </string-array>
+
+    <string-array name="restoAddress">
+        <item>@string/kuchina_address</item>
+        <item>@string/momo_cafe_address</item>
+        <item>@string/mango_tree_address</item>
+        <item>@string/crystal_dew_address</item>
+        <item>@string/wind_wave_address</item>
+        <item>@string/dakshin_resto_address</item>
+    </string-array>
+
+    <string-array name="restoUrl">
+        <item>@string/kuchina_url</item>
+        <item>@string/momo_cafe_url</item>
+        <item>@string/mango_tree_url</item>
+        <item>@string/crystal_dew_url</item>
+        <item>@string/wind_wave_url</item>
+        <item>@string/dakshin_resto_url</item>
+    </string-array>
+
+    <string-array name="eventImgId">
+        <item>@drawable/christmas_carnival</item>
+        <item>@drawable/chess_tour</item>
+        <item>@drawable/workshop</item>
+        <item>@drawable/fashion_show</item>
+        <item>@drawable/selfie_contest</item>
+    </string-array>
+
+    <string-array name="eventName">
+        <item>@string/christmas_carnival</item>
+        <item>@string/chess_tour</item>
+        <item>@string/workshop</item>
+        <item>@string/fashion_show</item>
+        <item>@string/selfie_contest</item>
+    </string-array>
+
+    <string-array name="eventDate">
+        <item>@string/christmas_carnival_date</item>
+        <item>@string/chess_tour_date</item>
+        <item>@string/workshop_date</item>
+        <item>@string/fashion_show_date</item>
+        <item>@string/selfie_contest_date</item>
+    </string-array>
+
+    <string-array name="eventTime">
+        <item>@string/christmas_carnival_time</item>
+        <item>@string/chess_tour_time</item>
+        <item>@string/workshop_time</item>
+        <item>@string/fashion_show_time</item>
+        <item>@string/selfie_contest_time</item>
+    </string-array>
+
+    <string-array name="eventPlace">
+        <item>@string/christmas_carnival_place</item>
+        <item>@string/chess_tour_place</item>
+        <item>@string/workshop_place</item>
+        <item>@string/fashion_show_place</item>
+        <item>@string/selfie_contest_place</item>
+    </string-array>
+
+    <string-array name="eventUrl">
+        <item>@string/christmas_carnival_url</item>
+        <item>@string/chess_tour_url</item>
+        <item>@string/workshop_url</item>
+        <item>@string/fashion_show_url</item>
+        <item>@string/selfie_contest_url</item>
+    </string-array>
+
+    <!-- Place MUMBAI -->
+
+    <string-array name="placeMumbaiRating">
+        <item>4.0</item>
+        <item>4.5</item>
+        <item>4.3</item>
+        <item>4.0</item>
+        <item>4.2</item>
+    </string-array>
+    <!-- Place Names -->
+    <string-array name="PlacemumbaiName">
+        <item>Gateway of India</item>
+        <item>Chhatrapati Shivaji Maharaj Terminus</item>
+        <item>Marine Drive</item>
+        <item>Haji Ali Dargah</item>
+        <item>Elephanta Caves</item>
+    </string-array>
+
+    <!-- Place Types -->
+    <string-array name="PlacemumbaiType">
+        <item>Monument</item>
+        <item>Railway Station</item>
+        <item>Promenade</item>
+        <item>Religious Site</item>
+        <item>Historical Site</item>
+    </string-array>
+
+    <!-- Operating Hours -->
+    <string-array name="PlacemumbaiTime">
+        <item>24/7</item>
+        <item>Open Daily, 24/7</item>
+        <item>Evening Walks</item>
+        <item>5:30am - 10:00pm</item>
+        <item>9:00am - 5:30pm (Closed on Mondays)</item>
+    </string-array>
+
+    <!-- Phone Numbers -->
+    <string-array name="PlacemumbaiPhone">
+        <item>+91 12345 67890</item>
+        <item>+91 98765 43210</item>
+        <item>+91 87654 32109</item>
+        <item>+91 54321 09876</item>
+        <item>+91 23456 78901</item>
+    </string-array>
+
+    <!-- Addresses -->
+    <string-array name="PlacemumbaiAddress">
+        <item>Gateway of India, Apollo Bandar, Colaba, Mumbai, Maharashtra 400001, India</item>
+        <item>Chhatrapati Shivaji Maharaj Terminus, Fort, Mumbai, Maharashtra 400001, India</item>
+        <item>Marine Drive, Netaji Subhash Chandra Bose Road, Mumbai, Maharashtra 400020, India</item>
+        <item>Haji Ali Dargah, Haji Ali, Dargah Road, Mumbai, Maharashtra 400026, India</item>
+        <item>Elephanta Caves, Elephanta Island, Mumbai, Maharashtra 400094, India</item>
+    </string-array>
+
+
+
+    <string-array name="placeDelhiRating">
+        <item>4.0</item>
+        <item>4.5</item>
+        <item>4.0</item>
+        <item>4.3</item>
+        <item>4.2</item>
+    </string-array>
+    <!-- Place Names -->
+    <string-array name="PlacedelhiName">
+        <item>India Gate</item>
+        <item>Qutub Minar</item>
+        <item>Humayun\'s Tomb</item>
+        <item>Lotus Temple</item>
+        <item>Red Fort</item>
+    </string-array>
+
+    <!-- Place Types -->
+    <string-array name="PlacedelhiType">
+        <item>Monument</item>
+        <item>Historical Site</item>
+        <item>Tomb</item>
+        <item>Religious Site</item>
+        <item>Fort</item>
+    </string-array>
+
+    <!-- Operating Hours -->
+    <string-array name="PlacedelhiTime">
+        <item>Open 24/7</item>
+        <item>7:00am - 5:00pm</item>
+        <item>6:00am - 6:00pm</item>
+        <item>9:00am - 7:00pm</item>
+        <item>9:30am - 5:30pm (Closed on Mondays)</item>
+    </string-array>
+
+    <!-- Phone Numbers -->
+    <string-array name="PlacedelhiPhone">
+        <item>+91 98765 43210</item>
+        <item>+91 87654 32109</item>
+        <item>+91 76543 21098</item>
+        <item>+91 65432 10987</item>
+        <item>+91 54321 09876</item>
+    </string-array>
+
+    <!-- Addresses -->
+    <string-array name="PlacedelhiAddress">
+        <item>India Gate, Rajpath Area, New Delhi, Delhi, India</item>
+        <item>Qutub Minar, Mehrauli, New Delhi, Delhi, India</item>
+        <item>Humayun\'s Tomb, Nizamuddin East, New Delhi, Delhi, India</item>
+        <item>Lotus Temple, Lotus Temple Road, Bahapur, New Delhi, Delhi, India</item>
+        <item>Red Fort, Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi, India</item>
+    </string-array>
+
+
+
+
+
+    <string-array name="placeManaliRating">
+        <item>4.3</item>
+        <item>4.0</item>
+        <item>4.5</item>
+        <item>4.2</item>
+        <item>4.0</item>
+    </string-array>
+    <!-- Place Names -->
+    <string-array name="PlacemanaliName">
+        <item>Solang Valley</item>
+        <item>Hidimba Devi Temple</item>
+        <item>Rohtang Pass</item>
+        <item>Manu Temple</item>
+        <item>Old Manali</item>
+    </string-array>
+    <string-array name="PlacemanaliDescription">
+        <item>Solang Valley is a picturesque valley known for its stunning landscapes and adventure activities like paragliding and skiing. It is a popular destination for nature lovers and adventure enthusiasts.</item>
+        <item>Hidimba Devi Temple is an ancient cave temple dedicated to Hidimba Devi, a character from the Mahabharata. The temple is surrounded by cedar forests and has a unique architectural style.</item>
+        <item>Rohtang Pass is a high mountain pass that connects Manali to Lahaul and Spiti. It offers breathtaking views of the Himalayas and is a gateway to many adventure activities, including snow sports.</item>
+        <item>Manu Temple is dedicated to the sage Manu and is believed to be the only temple of Manu in India. It is situated in Old Manali and offers a tranquil atmosphere for spiritual seekers.</item>
+        <item>Old Manali is known for its charm and vibrant atmosphere. It has narrow lanes, traditional houses, and a bohemian vibe. The area is popular for its cafes, shops, and cultural experiences.</item>
+    </string-array>
+
+
+    <!-- Place Types -->
+    <string-array name="PlacemanaliType">
+        <item>Valley</item>
+        <item>Temple</item>
+        <item>Mountain Pass</item>
+        <item>Temple</item>
+        <item>Scenic Area</item>
+    </string-array>
+
+    <!-- Operating Hours -->
+    <string-array name="PlacemanaliTime">
+        <item>9:00am - 6:00pm</item>
+        <item>8:00am - 6:00pm</item>
+        <item>Open 24/7 (depending on weather)</item>
+        <item>7:00am - 7:00pm</item>
+        <item>Open 24/7</item>
+    </string-array>
+
+    <!-- Phone Numbers -->
+    <string-array name="PlacemanaliPhone">
+        <item>+91 98765 43210</item>
+        <item>+91 87654 32109</item>
+        <item>+91 76543 21098</item>
+        <item>+91 65432 10987</item>
+        <item>+91 54321 09876</item>
+    </string-array>
+
+    <!-- Addresses -->
+    <string-array name="PlacemanaliAddress">
+        <item>Solang Valley, Manali, Himachal Pradesh, India</item>
+        <item>Hidimba Devi Temple, Hadimba Temple Road, Old Manali, Manali, Himachal Pradesh, India</item>
+        <item>Rohtang Pass, Manali, Himachal Pradesh, India</item>
+        <item>Manu Temple, Old Manali, Manali, Himachal Pradesh, India</item>
+        <item>Old Manali, Manali, Himachal Pradesh, India</item>
+    </string-array>
+
+
+
+    <string-array name="placeUdaipurRating">
+        <item>4.0</item>
+        <item>4.2</item>
+        <item>4.3</item>
+        <item>4.5</item>
+        <item>4.0</item>
+    </string-array>
+    <!-- Place Names -->
+    <string-array name="PlaceudaipurName">
+        <item>City Palace</item>
+        <item>Lake Pichola</item>
+        <item>Jag Mandir</item>
+        <item>Saheliyon Ki Bari</item>
+        <item>Jagdish Temple</item>
+    </string-array>
+    <string-array name="PlaceudaipurDescription">
+        <item>City Palace is a magnificent palace complex on the banks of Lake Pichola. It showcases a blend of Rajasthani and Mughal architectural styles and offers panoramic views of the city and lake.</item>
+        <item>Lake Pichola is an artificial freshwater lake created in 1362 AD. It is surrounded by hills, palaces, temples, and bathing ghats. Boat rides on Lake Pichola are popular for enjoying the scenic beauty.</item>
+        <item>Jag Mandir is an island palace on Lake Pichola. It is known for its elegant architecture and beautiful gardens. The island provides a peaceful retreat with stunning views of the surrounding landscapes.</item>
+        <item>Saheliyon Ki Bari, or the Garden of the Maidens, is a beautiful garden adorned with fountains, kiosks, marble elephants, and a delightful lotus pool. It was designed as a relaxing spot for royal women.</item>
+        <item>Jagdish Temple is a large and artistically significant Hindu temple dedicated to Lord Vishnu. It is an architectural marvel with intricate carvings and sculptures, attracting devotees and tourists alike.</item>
+    </string-array>
+
+    <!-- Place Types -->
+    <string-array name="PlaceudaipurType">
+        <item>Palace</item>
+        <item>Lake</item>
+        <item>Island</item>
+        <item>Garden</item>
+        <item>Temple</item>
+    </string-array>
+
+    <!-- Operating Hours -->
+    <string-array name="PlaceudaipurTime">
+        <item>9:30am - 5:30pm</item>
+        <item>Open 24/7</item>
+        <item>9:00am - 6:00pm</item>
+        <item>9:00am - 6:00pm</item>
+        <item>4:15am - 10:45pm</item>
+    </string-array>
+
+    <!-- Phone Numbers -->
+    <string-array name="PlaceudaipurPhone">
+        <item>+91 98765 43210</item>
+        <item>+91 87654 32109</item>
+        <item>+91 76543 21098</item>
+        <item>+91 65432 10987</item>
+        <item>+91 54321 09876</item>
+    </string-array>
+
+    <!-- Addresses -->
+    <string-array name="PlaceudaipurAddress">
+        <item>City Palace, Udaipur, Rajasthan, India</item>
+        <item>Lake Pichola, Udaipur, Rajasthan, India</item>
+        <item>Jag Mandir, Lake Pichola, Udaipur, Rajasthan, India</item>
+        <item>Saheliyon Ki Bari, Udaipur, Rajasthan, India</item>
+        <item>Jagdish Temple, Udaipur, Rajasthan, India</item>
+    </string-array>
+
+
+
+    <string-array name="placeGoaRating">
+        <item>4.2</item>
+        <item>4.5</item>
+        <item>4.3</item>
+        <item>4.0</item>
+        <item>4.0</item>
+    </string-array>
+    <!-- Place Names -->
+    <string-array name="PlacegoaName">
+        <item>Basilica of Bom Jesus</item>
+        <item>Calangute Beach</item>
+        <item>Fort Aguada</item>
+        <item>Dudhsagar Waterfalls</item>
+        <item>Anjuna Beach</item>
+    </string-array>
+    <string-array name="PlacegoaDescription">
+        <item>Basilica of Bom Jesus is a UNESCO World Heritage Site and a famous church in Goa. It holds the mortal remains of St. Francis Xavier and is known for its Baroque architecture.</item>
+        <item>Calangute Beach is the largest and one of the most popular beaches in North Goa. It attracts tourists with its golden sand, water sports, and vibrant nightlife.</item>
+        <item>Fort Aguada is a well-preserved 17th-century Portuguese fort in Goa. It offers panoramic views of the Arabian Sea and is a popular tourist destination.</item>
+        <item>Dudhsagar Waterfalls is a majestic four-tiered waterfall located on the Mandovi River. It is surrounded by lush greenery and is a spectacular natural attraction.</item>
+        <item>Anjuna Beach is known for its vibrant and bohemian atmosphere. It is famous for its weekly flea market, water sports, and beach parties.</item>
+    </string-array>
+
+
+    <!-- Place Types -->
+    <string-array name="PlacegoaType">
+        <item>Religious Site</item>
+        <item>Beach</item>
+        <item>Fort</item>
+        <item>Waterfall</item>
+        <item>Beach</item>
+    </string-array>
+
+    <!-- Operating Hours -->
+    <string-array name="PlacegoaTime">
+        <item>9:00am - 6:30pm</item>
+        <item>Open 24/7</item>
+        <item>10:00am - 6:00pm</item>
+        <item>8:00am - 5:30pm</item>
+        <item>Open 24/7</item>
+    </string-array>
+
+    <!-- Phone Numbers -->
+    <string-array name="PlacegoaPhone">
+        <item>+91 98765 43210</item>
+        <item>+91 87654 32109</item>
+        <item>+91 76543 21098</item>
+        <item>+91 65432 10987</item>
+        <item>+91 54321 09876</item>
+    </string-array>
+
+    <!-- Addresses -->
+    <string-array name="PlacegoaAddress">
+        <item>Basilica of Bom Jesus, Old Goa, Goa, India</item>
+        <item>Calangute Beach, North Goa, Goa, India</item>
+        <item>Fort Aguada, Sinquerim, Goa, India</item>
+        <item>Dudhsagar Waterfalls, Sonaulim, Goa, India</item>
+        <item>Anjuna Beach, North Goa, Goa, India</item>
+    </string-array>
+
+
+
+
+    <string-array name="placeKashmirRating">
+        <item>4.0</item>
+        <item>4.2</item>
+        <item>4.3</item>
+        <item>4.5</item>
+        <item>4.0</item>
+    </string-array>
+    <!-- Place Names -->
+    <string-array name="PlacekashmirName">
+        <item>Dal Lake</item>
+        <item>Gulmarg</item>
+        <item>Shalimar Bagh</item>
+        <item>Pari Mahal</item>
+        <item>Shankaracharya Temple</item>
+    </string-array>
+    <string-array name="PlacekashmirDescription">
+        <item>Dal Lake is a picturesque freshwater lake in Srinagar, surrounded by mountains and Mughal gardens. It is known for its shikara rides and houseboats, creating a serene and romantic atmosphere.</item>
+        <item>Gulmarg is a popular hill station and ski resort known for its snow-capped mountains and lush green meadows. It offers breathtaking views of the Himalayas and is a haven for winter sports enthusiasts.</item>
+        <item>Shalimar Bagh is one of the Mughal Gardens in Srinagar, designed by Emperor Jahangir. It features terraced lawns, flowing water, and vibrant flower beds, reflecting the Mughal style of garden design.</item>
+        <item>Pari Mahal is a historic monument perched on a hilltop, offering panoramic views of Srinagar and the Dal Lake. It was once a Buddhist monastery and later converted into a school of astrology by Dara Shikoh.</item>
+        <item>Shankaracharya Temple, also known as the Jyeshteshwara temple, is situated on a hilltop and dedicated to Lord Shiva. It provides a commanding view of Srinagar and the surrounding areas.</item>
+    </string-array>
+
+
+    <!-- Place Types -->
+    <string-array name="PlacekashmirType">
+        <item>Lake</item>
+        <item>Hill Station</item>
+        <item>Garden</item>
+        <item>Historical Site</item>
+        <item>Temple</item>
+    </string-array>
+
+    <!-- Operating Hours -->
+    <string-array name="PlacekashmirTime">
+        <item>Open 24/7</item>
+        <item>9:00am - 5:00pm</item>
+        <item>9:00am - 6:00pm</item>
+        <item>10:00am - 5:00pm</item>
+        <item>6:00am - 8:00pm</item>
+    </string-array>
+
+    <!-- Phone Numbers -->
+    <string-array name="PlacekashmirPhone">
+        <item>+91 98765 43210</item>
+        <item>+91 87654 32109</item>
+        <item>+91 76543 21098</item>
+        <item>+91 65432 10987</item>
+        <item>+91 54321 09876</item>
+    </string-array>
+
+    <!-- Addresses -->
+    <string-array name="PlacekashmirAddress">
+        <item>Dal Lake, Srinagar, Jammu and Kashmir, India</item>
+        <item>Gulmarg, Jammu and Kashmir, India</item>
+        <item>Shalimar Bagh, Srinagar, Jammu and Kashmir, India</item>
+        <item>Pari Mahal, Srinagar, Jammu and Kashmir, India</item>
+        <item>Shankaracharya Temple, Srinagar, Jammu and Kashmir, India</item>
+    </string-array>
+
+
+
+
+
+    <string-array name="placeMumbaiImageId">
+        <!-- Drawables for Mumbai places -->
+        <item>@drawable/place_mumbai1</item>
+        <item>@drawable/place_mumbai2</item>
+        <item>@drawable/place_mumbai3</item>
+        <item>@drawable/place_mumbai4</item>
+        <item>@drawable/place_mumbai5</item>
+    </string-array>
+
+    <string-array name="placeDelhiImageId">
+        <!-- Drawables for Delhi places -->
+        <item>@drawable/place_delhi1</item>
+        <item>@drawable/place_delhi2</item>
+        <item>@drawable/place_delhi3</item>
+        <item>@drawable/place_delhi4</item>
+        <item>@drawable/place_delhi5</item>
+    </string-array>
+
+    <string-array name="placeGoaImageId">
+        <!-- Drawables for Goa places -->
+        <item>@drawable/place_goa1</item>
+        <item>@drawable/place_goa2</item>
+        <item>@drawable/place_goa3</item>
+        <item>@drawable/place_goa4</item>
+        <item>@drawable/place_goa5</item>
+    </string-array>
+
+    <!-- Repeat similar structures for other locations -->
+
+    <string-array name="placeManaliImageId">
+        <!-- Drawables for Manali places -->
+        <item>@drawable/place_manali1</item>
+        <item>@drawable/place_manali2</item>
+        <item>@drawable/place_manali3</item>
+        <item>@drawable/place_manali4</item>
+        <item>@drawable/place_manali5</item>
+    </string-array>
+
+    <string-array name="placeKashmirImageId">
+        <!-- Drawables for Kashmir places -->
+        <item>@drawable/place_kashmir1</item>
+        <item>@drawable/place_kashmir2</item>
+        <item>@drawable/place_kashmir3</item>
+        <item>@drawable/place_kashmir4</item>
+        <item>@drawable/place_kashmir5</item>
+    </string-array>
+
+    <string-array name="placeUdaipurImageId">
+        <!-- Drawables for Udaipur places -->
+        <item>@drawable/place_udaipur1</item>
+        <item>@drawable/place_udaipur2</item>
+        <item>@drawable/place_udaipur3</item>
+        <item>@drawable/place_udaipur4</item>
+        <item>@drawable/place_udaipur5</item>
+    </string-array>
+
+
+    <!-- Repeat similar structures for other locations -->
+
+    <string-array name="hotelMumbaiImageId">
+        <!-- Drawables for Mumbai hotels -->
+        <item>@drawable/hotel_mumbai1</item>
+        <item>@drawable/hotel_mumbai2</item>
+        <item>@drawable/hotel_mumbai3</item>
+        <item>@drawable/hotel_mumbai4</item>
+        <item>@drawable/hotel_mumbai5</item>
+    </string-array>
+
+    <string-array name="hotelDelhiImageId">
+        <!-- Drawables for Delhi hotels -->
+        <item>@drawable/hotel_delhi1</item>
+        <item>@drawable/hotel_delhi2</item>
+        <item>@drawable/hotel_delhi3</item>
+        <item>@drawable/hotel_delhi4</item>
+        <item>@drawable/hotel_delhi5</item>
+    </string-array>
+
+    <string-array name="hotelGoaImageId">
+        <!-- Drawables for Goa hotels -->
+        <item>@drawable/hotel_goa1</item>
+        <item>@drawable/hotel_goa2</item>
+        <item>@drawable/hotel_goa3</item>
+        <item>@drawable/hotel_goa4</item>
+        <item>@drawable/hotel_goa5</item>
+    </string-array>
+
+    <!-- Repeat similar structures for other locations -->
+
+    <string-array name="hotelManaliImageId">
+        <!-- Drawables for Manali hotels -->
+        <item>@drawable/hotel_manali1</item>
+        <item>@drawable/hotel_manali2</item>
+        <item>@drawable/hotel_manali3</item>
+        <item>@drawable/hotel_manali4</item>
+        <item>@drawable/hotel_manali5</item>
+    </string-array>
+
+    <string-array name="hotelKashmirImageId">
+        <!-- Drawables for Kashmir hotels -->
+        <item>@drawable/hotel_kashmir1</item>
+        <item>@drawable/hotel_kashmir2</item>
+        <item>@drawable/hotel_kashmir3</item>
+        <item>@drawable/hotel_kashmir4</item>
+        <item>@drawable/hotel_kashmir5</item>
+    </string-array>
+
+    <string-array name="hotelUdaipurImageId">
+        <!-- Drawables for Udaipur hotels -->
+        <item>@drawable/hotel_udaipur1</item>
+        <item>@drawable/hotel_udaipur2</item>
+        <item>@drawable/hotel_udaipur3</item>
+        <item>@drawable/hotel_udaipur4</item>
+        <item>@drawable/hotel_udaipur5</item>
+    </string-array>
+
+
+
+
+
+
+    <string-array name="hotelMumbaiRating">
+        <!-- Random ratings for Mumbai -->
+        <item>4.1</item>
+        <item>4.5</item>
+        <item>4.0</item>
+        <item>4.2</item>
+        <item>4.3</item>
+    </string-array>
+
+
+    <string-array name="hotelDelhiRating">
+        <!-- Random ratings for Delhi -->
+        <item>4.2</item>
+        <item>4.4</item>
+        <item>4.1</item>
+        <item>4.3</item>
+        <item>4.5</item>
+    </string-array>
+
+    <string-array name="hotelGoaRating">
+        <!-- Random ratings for Goa -->
+        <item>4.3</item>
+        <item>4.2</item>
+        <item>4.4</item>
+        <item>4.1</item>
+        <item>4.5</item>
+    </string-array>
+
+    <!-- Repeat similar structures for other locations -->
+
+    <string-array name="hotelManaliRating">
+        <!-- Random ratings for Udaipur -->
+        <item>4.4</item>
+        <item>4.1</item>
+        <item>4.3</item>
+        <item>4.2</item>
+        <item>4.5</item>
+    </string-array>
+
+
+    <string-array name="hotelKashmirRating">
+        <!-- Random ratings for Kashmir -->
+        <item>4.0</item>
+        <item>4.2</item>
+        <item>4.3</item>
+        <item>4.5</item>
+        <item>4.0</item>
+    </string-array>
+
+    <string-array name="hotelUdaipurRating">
+        <!-- Random ratings for Udaipur -->
+        <item>4.4</item>
+        <item>4.1</item>
+        <item>4.3</item>
+        <item>4.2</item>
+        <item>4.5</item>
+    </string-array>
+
+    <!-- Hotel Names -->
+    <string-array name="hotelmumbaiName">
+        <item>The Taj Mahal Palace</item>
+        <item>Trident, Nariman Point</item>
+        <item>The Oberoi, Mumbai</item>
+        <item>Grand Hyatt Mumbai</item>
+        <item>JW Marriott Mumbai Juhu</item>
+    </string-array>
+
+    <!-- Hotel Types -->
+    <string-array name="hotelmumbaiType">
+        <item>Luxury Hotel</item>
+        <item>5-Star Hotel</item>
+        <item>Luxury Hotel</item>
+        <item>5-Star Hotel</item>
+        <item>5-Star Hotel</item>
+    </string-array>
+
+    <!-- Hotel Phone Numbers -->
+    <string-array name="hotelmumbaiPhone">
+        <item>+91 98765 43210</item>
+        <item>+91 87654 32109</item>
+        <item>+91 76543 21098</item>
+        <item>+91 65432 10987</item>
+        <item>+91 54321 09876</item>
+    </string-array>
+
+    <!-- Hotel Addresses -->
+    <string-array name="hotelmumbaiAddress">
+        <item>The Taj Mahal Palace, Apollo Bunder, Colaba, Mumbai, Maharashtra, India</item>
+        <item>Trident, Nariman Point, Mumbai, Maharashtra, India</item>
+        <item>The Oberoi, Mumbai, Nariman Point, Mumbai, Maharashtra, India</item>
+        <item>Grand Hyatt Mumbai, Off Western Express Highway, Santacruz East, Mumbai, Maharashtra, India</item>
+        <item>JW Marriott Mumbai Juhu, Juhu Tara Road, Juhu, Mumbai, Maharashtra, India</item>
+    </string-array>
+    <!-- Hotel Names -->
+    <string-array name="hoteldelhiName">
+        <item>The Imperial New Delhi</item>
+        <item>Taj Palace, New Delhi</item>
+        <item>The Leela Palace New Delhi</item>
+        <item>ITC Maurya, a Luxury Collection Hotel</item>
+        <item>The Oberoi, New Delhi</item>
+    </string-array>
+
+    <!-- Hotel Types -->
+    <string-array name="hoteldelhiType">
+        <item>Luxury Hotel</item>
+        <item>5-Star Hotel</item>
+        <item>Luxury Hotel</item>
+        <item>Luxury Hotel</item>
+        <item>Luxury Hotel</item>
+    </string-array>
+
+    <!-- Hotel Phone Numbers -->
+    <string-array name="hoteldelhiPhone">
+        <item>+91 98765 43210</item>
+        <item>+91 87654 32109</item>
+        <item>+91 76543 21098</item>
+        <item>+91 65432 10987</item>
+        <item>+91 54321 09876</item>
+    </string-array>
+
+    <!-- Hotel Addresses -->
+    <string-array name="hoteldelhiAddress">
+        <item>The Imperial New Delhi, Janpath Lane, Connaught Place, New Delhi, Delhi, India</item>
+        <item>Taj Palace, New Delhi, Sardar Patel Marg, Diplomatic Enclave, New Delhi, Delhi, India</item>
+        <item>The Leela Palace New Delhi, Diplomatic Enclave, Chanakyapuri, New Delhi, Delhi, India</item>
+        <item>ITC Maurya, a Luxury Collection Hotel, Diplomatic Enclave, Sardar Patel Marg, New Delhi, Delhi, India</item>
+        <item>The Oberoi, New Delhi, Dr. Zakir Hussain Marg, New Delhi, Delhi, India</item>
+    </string-array>
+    <!-- Hotel Names -->
+    <string-array name="hotelgoaName">
+        <item>Taj Exotica Resort &amp; Spa, Goa</item>
+        <item>The Leela Goa</item>
+        <item>W Goa</item>
+        <item>Vivanta Goa, Panaji</item>
+        <item>Radisson Blu Resort Goa Cavelossim Beach</item>
+    </string-array>
+
+    <!-- Hotel Types -->
+    <string-array name="hotelgoaType">
+        <item>Luxury Resort</item>
+        <item>5-Star Resort</item>
+        <item>Luxury Hotel</item>
+        <item>5-Star Hotel</item>
+        <item>4-Star Resort</item>
+    </string-array>
+
+    <!-- Hotel Phone Numbers -->
+    <string-array name="hotelgoaPhone">
+        <item>+91 98765 43210</item>
+        <item>+91 87654 32109</item>
+        <item>+91 76543 21098</item>
+        <item>+91 65432 10987</item>
+        <item>+91 54321 09876</item>
+    </string-array>
+
+    <!-- Hotel Addresses -->
+    <string-array name="hotelgoaAddress">
+        <item>Taj Exotica Resort &amp; Spa, Goa, Calwaddo, Salcete, Goa, India</item>
+        <item>The Leela Goa, Mobor, Cavelossim, Salcette, Goa, India</item>
+        <item>W Goa, Vagator Beach, Bardez, Goa, India</item>
+        <item>Vivanta Goa, Panaji, Dr. D. B. Bandodkar Road, Panaji, Goa, India</item>
+        <item>Radisson Blu Resort Goa Cavelossim Beach, Cavelossim Beach, Salcette, Goa, India</item>
+    </string-array>
+    <!-- Hotel Names -->
+    <string-array name="hotelmanaliName">
+        <item>The Himalayan</item>
+        <item>Span Resort and Spa</item>
+        <item>Solang Valley Resort</item>
+        <item>Manu Allaya Resort</item>
+        <item>Apple Country Resorts</item>
+    </string-array>
+
+    <!-- Hotel Types -->
+    <string-array name="hotelmanaliType">
+        <item>Mountain Resort</item>
+        <item>Luxury Resort</item>
+        <item>Valley Resort</item>
+        <item>Luxury Resort</item>
+        <item>Mountain Resort</item>
+    </string-array>
+
+    <!-- Hotel Phone Numbers -->
+    <string-array name="hotelmanaliPhone">
+        <item>+91 98765 43210</item>
+        <item>+91 87654 32109</item>
+        <item>+91 76543 21098</item>
+        <item>+91 65432 10987</item>
+        <item>+91 54321 09876</item>
+    </string-array>
+
+    <!-- Hotel Addresses -->
+    <string-array name="hotelmanaliAddress">
+        <item>The Himalayan, Hadimba Road, Manali, Himachal Pradesh, India</item>
+        <item>Span Resort and Spa, Kullu - Manali Highway, Manali, Himachal Pradesh, India</item>
+        <item>Solang Valley Resort, Solang Nala, Manali, Himachal Pradesh, India</item>
+        <item>Manu Allaya Resort, Sunny Side, Chadiyari, Manali, Himachal Pradesh, India</item>
+        <item>Apple Country Resorts, Log Hut Area, Manali, Himachal Pradesh, India</item>
+    </string-array>
+    <!-- Hotel Names -->
+    <string-array name="hotelkashmirName">
+        <item>The Lalit Grand Palace, Srinagar</item>
+        <item>Vivanta Dal View</item>
+        <item>The Khyber Himalayan Resort &amp; Spa</item>
+        <item>The Royal Springs Golf Course</item>
+        <item>WelcomHotel Pine-n-Peak, Pahalgam</item>
+    </string-array>
+
+    <!-- Hotel Types -->
+    <string-array name="hotelkashmirType">
+        <item>Heritage Hotel</item>
+        <item>Luxury Hotel</item>
+        <item>Mountain Resort</item>
+        <item>Golf Resort</item>
+        <item>New Green</item>
+    </string-array>
+
+    <!-- Hotel Phone Numbers -->
+    <string-array name="hotelkashmirPhone">
+        <item>+91 98765 43210</item>
+        <item>+91 87654 32109</item>
+        <item>+91 76543 21098</item>
+        <item>+91 65432 10987</item>
+        <item>+91 54321 09876</item>
+    </string-array>
+
+    <!-- Hotel Addresses -->
+    <string-array name="hotelkashmirAddress">
+        <item>The Lalit Grand Palace, Srinagar, Gupkar Road, Srinagar, Jammu and Kashmir, India</item>
+        <item>Vivanta Dal View, Kralsangri, Brein, Srinagar, Jammu and Kashmir, India</item>
+        <item>The Khyber Himalayan Resort &amp; Spa, Gulmarg, Jammu and Kashmir, India</item>
+        <item>The Royal Springs Golf Course, Chashme Shahi, Srinagar, Jammu and Kashmir, India</item>
+        <item>WelcomHotel Pine-n-Peak, Pahalgam, Pahalgam, Jammu and Kashmir, India</item>
+    </string-array>
+    <!-- Hotel Names -->
+    <string-array name="hoteludaipurName">
+        <item>The Oberoi Udaivilas</item>
+        <item>Taj Lake Palace</item>
+        <item>The Leela Palace Udaipur</item>
+        <item>Fateh Prakash Palace</item>
+        <item>Jagat Niwas Palace Hotel</item>
+    </string-array>
+
+    <!-- Hotel Types -->
+    <string-array name="hoteludaipurType">
+        <item>Luxury Resort</item>
+        <item>Palace Hotel</item>
+        <item>Luxury Hotel</item>
+        <item>Palace Hotel</item>
+        <item>Heritage Hotel</item>
+    </string-array>
+
+    <!-- Hotel Phone Numbers -->
+    <string-array name="hoteludaipurPhone">
+        <item>+91 98765 43210</item>
+        <item>+91 87654 32109</item>
+        <item>+91 76543 21098</item>
+        <item>+91 65432 10987</item>
+        <item>+91 54321 09876</item>
+    </string-array>
+
+    <!-- Hotel Addresses -->
+    <string-array name="hoteludaipurAddress">
+        <item>The Oberoi Udaivilas, Haridasji Ki Magri, Mulla Talai, Udaipur, Rajasthan, India</item>
+        <item>Taj Lake Palace, Pichola, Udaipur, Rajasthan, India</item>
+        <item>The Leela Palace Udaipur, Lake Pichola, Udaipur, Rajasthan, India</item>
+        <item>Fateh Prakash Palace, The City Palace Complex, Udaipur, Rajasthan, India</item>
+        <item>Jagat Niwas Palace Hotel, 23–25 Lal Ghat, Udaipur, Rajasthan, India</item>
+    </string-array>
+
+
+
+
+
+    <string-array name="restoMumbaiImageId">
+        <!-- Drawables for Mumbai restaurants -->
+        <item>@drawable/restaurant_mumbai1</item>
+        <item>@drawable/restaurant_mumbai2</item>
+        <item>@drawable/restaurant_mumbai3</item>
+        <item>@drawable/restaurant_mumbai4</item>
+        <item>@drawable/restaurant_mumbai5</item>
+    </string-array>
+
+    <string-array name="restoDelhiImageId">
+        <!-- Drawables for Delhi restaurants -->
+        <item>@drawable/restaurant_delhi1</item>
+        <item>@drawable/restaurant_delhi2</item>
+        <item>@drawable/restaurant_delhi3</item>
+        <item>@drawable/restaurant_delhi4</item>
+        <item>@drawable/restaurant_delhi5</item>
+    </string-array>
+
+    <string-array name="restoGoaImageId">
+        <!-- Drawables for Goa restaurants -->
+        <item>@drawable/restaurant_goa1</item>
+        <item>@drawable/restaurant_goa2</item>
+        <item>@drawable/restaurant_goa3</item>
+        <item>@drawable/restaurant_goa4</item>
+        <item>@drawable/restaurant_goa5</item>
+    </string-array>
+
+    <!-- Repeat similar structures for other locations -->
+
+    <string-array name="restoManaliImageId">
+        <!-- Drawables for Manali restaurants -->
+        <item>@drawable/restaurant_manali1</item>
+        <item>@drawable/restaurant_manali2</item>
+        <item>@drawable/restaurant_manali3</item>
+        <item>@drawable/restaurant_manali4</item>
+        <item>@drawable/restaurant_manali5</item>
+    </string-array>
+
+    <string-array name="restoKashmirImageId">
+        <!-- Drawables for Kashmir restaurants -->
+        <item>@drawable/restaurant_kashmir1</item>
+        <item>@drawable/restaurant_kashmir2</item>
+        <item>@drawable/restaurant_kashmir3</item>
+        <item>@drawable/restaurant_kashmir4</item>
+        <item>@drawable/restaurant_kashmir5</item>
+    </string-array>
+
+    <string-array name="restoUdaipurImageId">
+        <!-- Drawables for Udaipur restaurants -->
+        <item>@drawable/restaurant_udaipur1</item>
+        <item>@drawable/restaurant_udaipur2</item>
+        <item>@drawable/restaurant_udaipur3</item>
+        <item>@drawable/restaurant_udaipur4</item>
+        <item>@drawable/restaurant_udaipur5</item>
+    </string-array>
+
+
+    <!-- Restaurant Names -->
+    <string-array name="restmumbaiName">
+        <item>The Table</item>
+        <item>Britannia &amp; Co. Restaurant</item>
+        <item>Trishna</item>
+        <item>Dome, InterContinental</item>
+        <item>Leopold Cafe</item>
+    </string-array>
+
+    <!-- Restaurant Types -->
+    <string-array name="restmumbaiType">
+        <item>Fine Dining</item>
+        <item>Irani Cafe</item>
+        <item>Seafood</item>
+        <item>Roof-Top Lounge</item>
+        <item>Cafe</item>
+    </string-array>
+
+    <!-- Restaurant Operating Hours -->
+    <string-array name="restmumbaiTime">
+        <item>12:00pm - 3:30pm, 7:00pm - 12:00am</item>
+        <item>11:00am - 4:00pm (Closed on Sundays)</item>
+        <item>12:30pm - 3:30pm, 7:00pm - 11:30pm</item>
+        <item>5:00pm - 1:30am</item>
+        <item>7:30am - 12:00am</item>
+    </string-array>
+
+    <!-- Restaurant Phone Numbers -->
+    <string-array name="restmumbaiPhone">
+        <item>+91 2266 9696</item>
+        <item>+91 22 2261 5264</item>
+        <item>+91 22 2270 3213</item>
+        <item>+91 22 3987 9999</item>
+        <item>+91 22 22828185</item>
+    </string-array>
+
+    <!-- Restaurant Addresses -->
+    <string-array name="restmumbaiAddress">
+        <item>The Table, Kalapesi Trust Building, Colaba, Mumbai, Maharashtra, India</item>
+        <item>Britannia &amp; Co. Restaurant, Wakefield House, 11 Sprott Road, Ballard Estate, Mumbai, Maharashtra, India</item>
+        <item>Trishna, 7 Sai Baba Marg, Kala Ghoda, Fort, Mumbai, Maharashtra, India</item>
+        <item>Dome, InterContinental, 135, Marine Drive, Mumbai, Maharashtra, India</item>
+        <item>Leopold Cafe, Colaba Causeway, Colaba, Mumbai, Maharashtra, India</item>
+    </string-array>
+
+    <!-- Restaurant URLs -->
+    <string-array name="restmumbaiUrl">
+        <item>https://www.thetable.in/</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>https://www.ihg.com/intercontinental/hotels/us/en/mumbai/bomhb/hoteldetail/dining</item>
+        <item>Not Available</item>
+    </string-array>
+    <!-- Restaurant Names -->
+    <string-array name="restdelhiName">
+        <item>Indian Accent</item>
+        <item>Karim\'s</item>
+        <item>Gunpowder</item>
+        <item>Dramz</item>
+        <item>Saravana Bhavan</item>
+    </string-array>
+
+    <!-- Restaurant Types -->
+    <string-array name="restdelhiType">
+        <item>Fine Dining</item>
+        <item>Historical Eatery</item>
+        <item>South Indian</item>
+        <item>Rooftop Lounge</item>
+        <item>Vegetarian</item>
+    </string-array>
+
+    <!-- Restaurant Operating Hours -->
+    <string-array name="restdelhiTime">
+        <item>12:00pm - 2:30pm, 7:00pm - 10:30pm</item>
+        <item>9:30am - 11:00pm</item>
+        <item>12:00pm - 3:30pm, 7:00pm - 11:00pm</item>
+        <item>12:00pm - 12:00am</item>
+        <item>8:00am - 11:00pm</item>
+    </string-array>
+
+    <!-- Restaurant Phone Numbers -->
+    <string-array name="restdelhiPhone">
+        <item>+91 11 6617 5151</item>
+        <item>+91 11 2326 4981</item>
+        <item>+91 96507 48787</item>
+        <item>+91 72900 02424</item>
+        <item>+91 11 2341 1228</item>
+    </string-array>
+
+    <!-- Restaurant Addresses -->
+    <string-array name="restdelhiAddress">
+        <item>Indian Accent, The Lodhi, Lodhi Road, New Delhi, Delhi, India</item>
+        <item>Karim\'s, Jama Masjid, Gali Kababian, Old Delhi, Delhi, India</item>
+        <item>Gunpowder, 45, 1st Floor, Khan Market, New Delhi, Delhi, India</item>
+        <item>Dramz, 1580/1, KD Marg, Near Qutub Minar, Mehrauli, New Delhi, Delhi, India</item>
+        <item>Saravana Bhavan, P-13, Connaught Circus, Connaught Place, New Delhi, Delhi, India</item>
+    </string-array>
+
+    <!-- Restaurant URLs -->
+    <string-array name="restdelhiUrl">
+        <item>https://indianaccent.com/delhi/</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>https://www.dramz.in/</item>
+        <item>Not Available</item>
+    </string-array>
+    <!-- Restaurant Names -->
+    <string-array name="restgoaName">
+        <item>Souza Lobo</item>
+        <item>Gunpowder</item>
+        <item>Vinayak Family Restaurant</item>
+        <item>Fisherman\'s Wharf</item>
+        <item>Gunpowder, Assagao</item>
+    </string-array>
+
+    <!-- Restaurant Types -->
+    <string-array name="restgoaType">
+        <item>Seafood</item>
+        <item>South Indian</item>
+        <item>Goan Cuisine</item>
+        <item>Seafood</item>
+        <item>South Indian</item>
+    </string-array>
+
+    <!-- Restaurant Operating Hours -->
+    <string-array name="restgoaTime">
+        <item>11:00am - 3:30pm, 7:00pm - 11:00pm</item>
+        <item>12:30pm - 3:30pm, 7:00pm - 10:30pm</item>
+        <item>8:00am - 10:30pm</item>
+        <item>12:00pm - 3:30pm, 7:00pm - 11:00pm</item>
+        <item>12:30pm - 3:30pm, 7:00pm - 10:30pm</item>
+    </string-array>
+
+    <!-- Restaurant Phone Numbers -->
+    <string-array name="restgoaPhone">
+        <item>+91 98221 41057</item>
+        <item>+91 832 2268 227</item>
+        <item>+91 832 248 9222</item>
+        <item>+91 832 2414 344</item>
+        <item>+91 88888 24500</item>
+    </string-array>
+
+    <!-- Restaurant Addresses -->
+    <string-array name="restgoaAddress">
+        <item>Souza Lobo, Calangute Beach, Calangute, Goa, India</item>
+        <item>Gunpowder, House 6, Saunta Vaddo, Assagao, Goa, India</item>
+        <item>Vinayak Family Restaurant, Near Shiv Temple, Calangute - Baga Road, Calangute, Goa, India</item>
+        <item>Fisherman\'s Wharf, House No. 13/14, Sal River, Betim, Goa, India</item>
+        <item>Gunpowder, Assagao, Goa, India</item>
+    </string-array>
+
+    <!-- Restaurant URLs -->
+    <string-array name="restgoaUrl">
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>https://www.fishermanswharf.in/</item>
+        <item>Not Available</item>
+    </string-array>
+    <!-- Restaurant Names -->
+    <string-array name="restmanaliName">
+        <item>Johnson\'s Cafe and Hotel</item>
+        <item>Casa Bella Vista</item>
+        <item>Il Forno</item>
+        <item>Lazy Dog Lounge</item>
+        <item>The Johnson\'s Microbrewery</item>
+    </string-array>
+
+    <!-- Restaurant Types -->
+    <string-array name="restmanaliType">
+        <item>Cafe</item>
+        <item>Italian Restaurant</item>
+        <item>Italian Restaurant</item>
+        <item>Bar and Lounge</item>
+        <item>Microbrewery</item>
+    </string-array>
+
+    <!-- Restaurant Operating Hours -->
+    <string-array name="restmanaliTime">
+        <item>8:00am - 11:00pm</item>
+        <item>8:00am - 10:00pm</item>
+        <item>8:00am - 11:00pm</item>
+        <item>11:00am - 11:00pm</item>
+        <item>12:00pm - 11:00pm</item>
+    </string-array>
+
+    <!-- Restaurant Phone Numbers -->
+    <string-array name="restmanaliPhone">
+        <item>+91 1902 252 122</item>
+        <item>+91 1902 254 026</item>
+        <item>+91 98160 11447</item>
+        <item>+91 86280 23344</item>
+        <item>+91 86280 23344</item>
+    </string-array>
+
+    <!-- Restaurant Addresses -->
+    <string-array name="restmanaliAddress">
+        <item>Johnson\'s Cafe and Hotel, Circuit House Road, Manali, Himachal Pradesh, India</item>
+        <item>Casa Bella Vista, Village Shanag, Manali, Himachal Pradesh, India</item>
+        <item>Il Forno, The Mall, Manali, Himachal Pradesh, India</item>
+        <item>Lazy Dog Lounge, Left Bank, Aleo, Manali, Himachal Pradesh, India</item>
+        <item>The Johnson\'s Microbrewery, Circuit House Road, Manali, Himachal Pradesh, India</item>
+    </string-array>
+
+    <!-- Restaurant URLs -->
+    <string-array name="restmanaliUrl">
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+    </string-array>
+    <!-- Restaurant Names -->
+    <string-array name="restkashmirName">
+        <item>Shamyana Restaurant</item>
+        <item>Mughal Darbar</item>
+        <item>Ahdoo\'s</item>
+        <item>Pergola</item>
+        <item>The Chinar Restaurant</item>
+    </string-array>
+
+    <!-- Restaurant Types -->
+    <string-array name="restkashmirType">
+        <item>Mughlai Restaurant</item>
+        <item>Kashmiri Cuisine</item>
+        <item>Mughlai Restaurant</item>
+        <item>Multi-Cuisine</item>
+        <item>Mughlai Restaurant</item>
+    </string-array>
+
+    <!-- Restaurant Operating Hours -->
+    <string-array name="restkashmirTime">
+        <item>12:00pm - 11:00pm</item>
+        <item>11:00am - 11:00pm</item>
+        <item>11:00am - 11:00pm</item>
+        <item>12:00pm - 11:00pm</item>
+        <item>12:00pm - 11:00pm</item>
+    </string-array>
+
+    <!-- Restaurant Phone Numbers -->
+    <string-array name="restkashmirPhone">
+        <item>+91 194 245 6666</item>
+        <item>+91 194 247 4040</item>
+        <item>+91 194 245 8476</item>
+        <item>+91 194 250 1001</item>
+        <item>+91 194 250 0083</item>
+    </string-array>
+
+    <!-- Restaurant Addresses -->
+    <string-array name="restkashmirAddress">
+        <item>Shamyana Restaurant, Raj Bagh, Srinagar, Jammu and Kashmir, India</item>
+        <item>Mughal Darbar, Residency Road, Srinagar, Jammu and Kashmir, India</item>
+        <item>Ahdoo\'s, Residency Road, Srinagar, Jammu and Kashmir, India</item>
+        <item>Pergola, Leh Road, Channi Himmat, Jammu, Jammu and Kashmir, India</item>
+        <item>The Chinar Restaurant, Residency Road, Srinagar, Jammu and Kashmir, India</item>
+    </string-array>
+
+    <!-- Restaurant URLs -->
+    <string-array name="restkashmirUrl">
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+    </string-array>
+    <!-- Restaurant Names -->
+    <string-array name="restudaipurName">
+        <item>Botanical Cafe</item>
+        <item>Jaiwana Haveli Rooftop Restaurant</item>
+        <item>Sheesh Mahal</item>
+        <item>Natraj Dining Hall</item>
+        <item>Upre by 1559 AD</item>
+    </string-array>
+
+    <!-- Restaurant Types -->
+    <string-array name="restudaipurType">
+        <item>Rooftop Dining</item>
+        <item>Rooftop Restaurant</item>
+        <item>Multi-Cuisine</item>
+        <item>Veg Restaurant</item>
+        <item>Fine Dining</item>
+    </string-array>
+
+    <!-- Restaurant Operating Hours -->
+    <string-array name="restudaipurTime">
+        <item>11:00am - 11:00pm</item>
+        <item>7:30am - 10:30pm</item>
+        <item>8:00am - 11:00pm</item>
+        <item>11:00am - 3:30pm, 7:00pm - 11:00pm</item>
+        <item>12:00pm - 11:00pm</item>
+    </string-array>
+
+    <!-- Restaurant Phone Numbers -->
+    <string-array name="restudaipurPhone">
+        <item>+91 7340011988</item>
+        <item>+91 294 242 2176</item>
+        <item>+91 294 241 8375</item>
+        <item>+91 294 252 2800</item>
+        <item>+91 7340011988</item>
+    </string-array>
+
+    <!-- Restaurant Addresses -->
+    <string-array name="restudaipurAddress">
+        <item>1559 AD, Outside Chandpole, Udaipur, Rajasthan, India</item>
+        <item>Jaiwana Haveli Rooftop Restaurant, 14, Lal Ghat, Udaipur, Rajasthan, India</item>
+        <item>Sheesh Mahal, The Leela Palace Udaipur, Lake Pichola, Udaipur, Rajasthan, India</item>
+        <item>Natraj Dining Hall, 22, Jagdish Chowk, City Palace Road, Udaipur, Rajasthan, India</item>
+        <item>Upre by 1559 AD, Outside Chandpole, Udaipur, Rajasthan, India</item>
+    </string-array>
+
+    <!-- Restaurant URLs -->
+    <string-array name="restudaipurUrl">
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+    </string-array>
+
+
+
+
+    <string-array name="shopMumbaiImageId">
+        <!-- Drawables for Mumbai shops -->
+        <item>@drawable/shop_mumbai1</item>
+        <item>@drawable/shop_mumbai2</item>
+        <item>@drawable/shop_mumbai3</item>
+        <item>@drawable/shop_mumbai4</item>
+        <item>@drawable/shop_mumbai5</item>
+    </string-array>
+
+    <string-array name="shopDelhiImageId">
+        <!-- Drawables for Delhi shops -->
+        <item>@drawable/shop_delhi1</item>
+        <item>@drawable/shop_delhi2</item>
+        <item>@drawable/shop_delhi3</item>
+        <item>@drawable/shop_delhi4</item>
+        <item>@drawable/shop_delhi5</item>
+    </string-array>
+
+    <string-array name="shopGoaImageId">
+        <!-- Drawables for Goa shops -->
+        <item>@drawable/shop_goa1</item>
+        <item>@drawable/shop_goa2</item>
+        <item>@drawable/shop_goa3</item>
+        <item>@drawable/shop_goa4</item>
+        <item>@drawable/shop_goa5</item>
+    </string-array>
+
+    <!-- Repeat similar structures for other locations -->
+
+    <string-array name="shopManaliImageId">
+        <!-- Drawables for Manali shops -->
+        <item>@drawable/shop_manali1</item>
+        <item>@drawable/shop_manali2</item>
+        <item>@drawable/shop_manali3</item>
+        <item>@drawable/shop_manali4</item>
+        <item>@drawable/shop_manali5</item>
+    </string-array>
+
+    <string-array name="shopKashmirImageId">
+        <!-- Drawables for Kashmir shops -->
+        <item>@drawable/shop_kashmir1</item>
+        <item>@drawable/shop_kashmir2</item>
+        <item>@drawable/shop_kashmir3</item>
+        <item>@drawable/shop_kashmir4</item>
+        <item>@drawable/shop_kashmir5</item>
+    </string-array>
+
+    <string-array name="shopUdaipurImageId">
+        <!-- Drawables for Udaipur shops -->
+        <item>@drawable/shop_udaipur1</item>
+        <item>@drawable/shop_udaipur2</item>
+        <item>@drawable/shop_udaipur3</item>
+        <item>@drawable/shop_udaipur4</item>
+        <item>@drawable/shop_udaipur5</item>
+    </string-array>
+
+
+
+    <!-- Shop Names -->
+    <string-array name="shopmumbaiName">
+        <item>Colaba Causeway</item>
+        <item>Linking Road</item>
+        <item>Crawford Market</item>
+        <item>High Street Phoenix</item>
+        <item>Chor Bazaar</item>
+    </string-array>
+
+    <!-- Shop Places -->
+    <string-array name="shopmumbaiPlace">
+        <item>Street Market</item>
+        <item>Shopping Street</item>
+        <item>Market</item>
+        <item>Shopping Mall</item>
+        <item>Flea Market</item>
+    </string-array>
+
+    <!-- Shop Operating Hours -->
+    <string-array name="shopmumbaiTime">
+        <item>Varies by shop</item>
+        <item>Varies by shop</item>
+        <item>10:00am - 8:00pm</item>
+        <item>11:00am - 10:00pm</item>
+        <item>Varies by shop</item>
+    </string-array>
+
+    <!-- Shop Phone Numbers -->
+    <string-array name="shopmumbaiPhone">
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>+91 22 2342 1877</item>
+        <item>+91 22 4333 9999</item>
+        <item>Not Available</item>
+    </string-array>
+
+    <!-- Shop Addresses -->
+    <string-array name="shopmumbaiAddress">
+        <item>Colaba Causeway, Colaba, Mumbai, Maharashtra, India</item>
+        <item>Linking Road, Bandra West, Mumbai, Maharashtra, India</item>
+        <item>Crawford Market, Dhobi Talao, Chhatrapati Shivaji Terminus Area, Mumbai, Maharashtra, India</item>
+        <item>High Street Phoenix, Lower Parel, Mumbai, Maharashtra, India</item>
+        <item>Chor Bazaar, Mutton Street, Grant Road Area, Mumbai, Maharashtra, India</item>
+    </string-array>
+    <!-- Shop Names -->
+    <string-array name="shopdelhiName">
+        <item>Dilli Haat</item>
+        <item>Chandni Chowk</item>
+        <item>Sarojini Nagar Market</item>
+        <item>Connaught Place</item>
+        <item>South Extension Market</item>
+    </string-array>
+
+    <!-- Shop Places -->
+    <string-array name="shopdelhiPlace">
+        <item>Handicraft Market</item>
+        <item>Market</item>
+        <item>Flea Market</item>
+        <item>Shopping Area</item>
+        <item>Shopping Market</item>
+    </string-array>
+
+    <!-- Shop Operating Hours -->
+    <string-array name="shopdelhiTime">
+        <item>11:00am - 9:00pm</item>
+        <item>Varies by shop</item>
+        <item>10:00am - 9:00pm</item>
+        <item>Varies by shop</item>
+        <item>10:00am - 9:00pm</item>
+    </string-array>
+
+    <!-- Shop Phone Numbers -->
+    <string-array name="shopdelhiPhone">
+        <item>+91 11 2611 0092</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Varies by shop</item>
+        <item>Not Available</item>
+    </string-array>
+
+    <!-- Shop Addresses -->
+    <string-array name="shopdelhiAddress">
+        <item>Dilli Haat, INA, New Delhi, Delhi, India</item>
+        <item>Chandni Chowk, Old Delhi, Delhi, India</item>
+        <item>Sarojini Nagar Market, Sarojini Nagar, New Delhi, Delhi, India</item>
+        <item>Connaught Place, New Delhi, Delhi, India</item>
+        <item>South Extension Market, South Extension, New Delhi, Delhi, India</item>
+    </string-array>
+    <!-- Shop Names -->
+    <string-array name="shopgoaName">
+        <item>Anjuna Flea Market</item>
+        <item>Mapusa Market</item>
+        <item>Calangute Market Square</item>
+        <item>Colva Beach Market</item>
+        <item>Panjim Market</item>
+    </string-array>
+
+    <!-- Shop Places -->
+    <string-array name="shopgoaPlace">
+        <item>Flea Market</item>
+        <item>Market</item>
+        <item>Market Square</item>
+        <item>Beach Market</item>
+        <item>Market</item>
+    </string-array>
+
+    <!-- Shop Operating Hours -->
+    <string-array name="shopgoaTime">
+        <item>Wednesday, 8:00am - 8:00pm</item>
+        <item>Varies by shop</item>
+        <item>Varies by shop</item>
+        <item>Varies by shop</item>
+        <item>Varies by shop</item>
+    </string-array>
+
+    <!-- Shop Phone Numbers -->
+    <string-array name="shopgoaPhone">
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+    </string-array>
+
+    <!-- Shop Addresses -->
+    <string-array name="shopgoaAddress">
+        <item>Anjuna Flea Market, Anjuna, North Goa, Goa, India</item>
+        <item>Mapusa Market, Mapusa, North Goa, Goa, India</item>
+        <item>Calangute Market Square, Calangute, North Goa, Goa, India</item>
+        <item>Colva Beach Market, Colva, South Goa, Goa, India</item>
+        <item>Panjim Market, Panjim, North Goa, Goa, India</item>
+    </string-array>
+    <!-- Shop Names -->
+    <string-array name="shopmanaliName">
+        <item>Mall Road</item>
+        <item>Old Manali Market</item>
+        <item>Tibetan Market</item>
+        <item>Manu Market</item>
+        <item>Bhuttico</item>
+    </string-array>
+
+    <!-- Shop Places -->
+    <string-array name="shopmanaliPlace">
+        <item>Shopping Street</item>
+        <item>Market</item>
+        <item>Market</item>
+        <item>Market</item>
+        <item>Handicraft Store</item>
+    </string-array>
+
+    <!-- Shop Operating Hours -->
+    <string-array name="shopmanaliTime">
+        <item>Varies by shop</item>
+        <item>Varies by shop</item>
+        <item>Varies by shop</item>
+        <item>Varies by shop</item>
+        <item>Varies by shop</item>
+    </string-array>
+
+    <!-- Shop Phone Numbers -->
+    <string-array name="shopmanaliPhone">
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+    </string-array>
+
+    <!-- Shop Addresses -->
+    <string-array name="shopmanaliAddress">
+        <item>Mall Road, Manali, Himachal Pradesh, India</item>
+        <item>Old Manali Market, Old Manali, Himachal Pradesh, India</item>
+        <item>Tibetan Market, Manali, Himachal Pradesh, India</item>
+        <item>Manu Market, Manali, Himachal Pradesh, India</item>
+        <item>Bhuttico, Mall Road, Manali, Himachal Pradesh, India</item>
+    </string-array>
+    <!-- Shop Names -->
+    <string-array name="shopkashmirName">
+        <item>Lal Chowk</item>
+        <item>Boulevard Road</item>
+        <item>Polo View Market</item>
+        <item>Raghunath Bazaar</item>
+        <item>Badshah Chowk</item>
+    </string-array>
+
+    <!-- Shop Places -->
+    <string-array name="shopkashmirPlace">
+        <item>Market</item>
+        <item>Riverfront Road</item>
+        <item>Market</item>
+        <item>Market</item>
+        <item>Market</item>
+    </string-array>
+
+    <!-- Shop Operating Hours -->
+    <string-array name="shopkashmirTime">
+        <item>Varies by shop</item>
+        <item>Varies by shop</item>
+        <item>Varies by shop</item>
+        <item>Varies by shop</item>
+        <item>Varies by shop</item>
+    </string-array>
+
+    <!-- Shop Phone Numbers -->
+    <string-array name="shopkashmirPhone">
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+    </string-array>
+
+    <!-- Shop Addresses -->
+    <string-array name="shopkashmirAddress">
+        <item>Lal Chowk, Srinagar, Jammu and Kashmir, India</item>
+        <item>Boulevard Road, Srinagar, Jammu and Kashmir, India</item>
+        <item>Polo View Market, Srinagar, Jammu and Kashmir, India</item>
+        <item>Raghunath Bazaar, Jammu, Jammu and Kashmir, India</item>
+        <item>Badshah Chowk, Srinagar, Jammu and Kashmir, India</item>
+    </string-array>
+    <!-- Shop Names -->
+    <string-array name="shopudaipurName">
+        <item>Hathi Pol Bazaar</item>
+        <item>Bada Bazaar</item>
+        <item>Chetak Circle</item>
+        <item>Jagdish Temple Street</item>
+        <item>Bapu Bazaar</item>
+    </string-array>
+
+    <!-- Shop Places -->
+    <string-array name="shopudaipurPlace">
+        <item>Market</item>
+        <item>Market</item>
+        <item>Market</item>
+        <item>Street</item>
+        <item>Market</item>
+    </string-array>
+
+    <!-- Shop Operating Hours -->
+    <string-array name="shopudaipurTime">
+        <item>Varies by shop</item>
+        <item>Varies by shop</item>
+        <item>Varies by shop</item>
+        <item>Varies by shop</item>
+        <item>Varies by shop</item>
+    </string-array>
+
+    <!-- Shop Phone Numbers -->
+    <string-array name="shopudaipurPhone">
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+        <item>Not Available</item>
+    </string-array>
+
+    <!-- Shop Addresses -->
+    <string-array name="shopudaipurAddress">
+        <item>Hathi Pol Bazaar, Udaipur, Rajasthan, India</item>
+        <item>Bada Bazaar, Udaipur, Rajasthan, India</item>
+        <item>Chetak Circle, Udaipur, Rajasthan, India</item>
+        <item>Jagdish Temple Street, Udaipur, Rajasthan, India</item>
+        <item>Bapu Bazaar, Udaipur, Rajasthan, India</item>
+    </string-array>
+
+
+    <string-array name="PlacemumbaiDescription">
+        <item>The Gateway of India is an iconic monument and a popular tourist attraction in Mumbai. It was built to commemorate the visit of King George V and Queen Mary to Mumbai.</item>
+        <item>Chhatrapati Shivaji Maharaj Terminus, formerly known as Victoria Terminus, is a historic railway station known for its architectural brilliance. It is a UNESCO World Heritage Site.</item>
+        <item>Marine Drive is a picturesque promenade along the Arabian Sea. It is known for its stunning views, especially during sunset, and is a favorite spot for locals and tourists alike.</item>
+        <item>Haji Ali Dargah is a mosque and tomb located on an islet in the Arabian Sea. It is a revered religious site and a symbol of Mumbai\'s rich cultural heritage.</item>
+        <item>Elephanta Caves are ancient rock-cut caves dedicated to Lord Shiva. They are located on Elephanta Island and showcase impressive sculptures and architecture.</item>
+    </string-array>
+
+    <string-array name="PlacedelhiDescription">
+        <item>India Gate is a war memorial and an iconic landmark in Delhi. It stands tall as a tribute to the soldiers who sacrificed their lives in World War I.</item>
+        <item>Qutub Minar is a UNESCO World Heritage Site and the tallest brick minaret in the world. It is a symbol of Indo-Islamic architecture and Delhi\'s historical richness.</item>
+        <item>Humayun\'s Tomb is a majestic garden tomb that is also a UNESCO World Heritage Site. It is the tomb of the Mughal Emperor Humayun and a masterpiece of Mughal architecture.</item>
+        <item>Lotus Temple is a Bahá\'í House of Worship known for its stunning lotus-like design. It is open to people of all religions and is a peaceful place for meditation and reflection.</item>
+        <item>Red Fort, also known as Lal Qila, is a UNESCO World Heritage Site and a historic fort in Delhi. It served as the main residence of the Mughal emperors for nearly 200 years.</item>
+    </string-array>
+
+
+
+</resources>
